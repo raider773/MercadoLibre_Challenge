@@ -3,9 +3,9 @@ Challenge for Data Science interview at Mercadolibre
 
 
 
-# <font color='navy'><center>Evaluación Data Science</center></font>\
+# <font color='navy'><center>Evaluación Data Science</center></font>
 
-Se le asigna como tarea realizar un modelo que determine si un usuario de MercadoPago (MP) Argentina volverá a transaccionar en los próximos 2 meses. Para ello se cuenta con los siguientes archivos:\
+Se le asigna como tarea realizar un modelo que determine si un usuario de MercadoPago (MP) Argentina volverá a transaccionar en los próximos 2 meses. Para ello se cuenta con los siguientes archivos:
 
 
 * **PAYMENTS.csv:** Contiene datos transaccionales de MP que se hayan realizado en los últimos 6 meses. Este está sólo limitado al segmento Wallet (todos los pagos que se realicen con billetera virtual).
@@ -42,3 +42,16 @@ Se le asigna como tarea realizar un modelo que determine si un usuario de Mercad
     * SPENT_ML: Dinero gastado en ML.
     * RECENCY_ML: Fecha de la ultimo compra en ML.
     * FREQUENCY_ML: Cantidad de días que realizó compras.
+
+
+In 0_RESUMEN.ipynb is a brief explanation on how i aproached this problem. Papers regarding Entity embeddings and Self-organazing-Maps are atached to the project
+
+
+
+
+
+
+
+
+
+
